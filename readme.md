@@ -24,13 +24,13 @@ php composer.phar install
 
 ### Example commands
 
-####can
+#### can
   * can:designer {action}
   * can:developer {action}
   * can:manager {action}
   * can:tester {action}
   
-####user
+#### user
   * user:designer
   * user:developer
   * user:manager
